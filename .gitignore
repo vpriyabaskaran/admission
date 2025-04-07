@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite
+*.db
+*.pyc
+docker-compose.override.yml
+.env
