@@ -6,4 +6,3 @@
 *.db
 *.pyc
 docker-compose.override.yml
-.env
